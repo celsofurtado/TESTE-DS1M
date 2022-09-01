@@ -1,4 +1,7 @@
 Banana
-Melancia
 Maçã
 Melão
+Uva
+Goiava
+Graviola
+
